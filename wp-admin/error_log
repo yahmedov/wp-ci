@@ -1,0 +1,29 @@
+[31-May-2017 15:20:23 UTC] [INFO] [fg-joomla-to-wordpress] === START test_database 2017-05-31 15:20:23 ===
+[31-May-2017 15:20:23 UTC] [INFO] [fg-joomla-to-wordpress] Connected with success to the Joomla database
+[31-May-2017 15:20:23 UTC] [INFO] [fg-joomla-to-wordpress] Joomla data found:
+2 categories
+1 article
+
+[31-May-2017 15:20:23 UTC] [INFO] [fg-joomla-to-wordpress] === END test_database 2017-05-31 15:20:23 ===
+
+[31-May-2017 15:20:57 UTC] [INFO] [fg-joomla-to-wordpress] === START save 2017-05-31 15:20:57 ===
+[31-May-2017 15:20:57 UTC] [INFO] [fg-joomla-to-wordpress] Settings saved
+[31-May-2017 15:20:57 UTC] [INFO] [fg-joomla-to-wordpress] === END save 2017-05-31 15:20:57 ===
+
+[31-May-2017 15:21:03 UTC] [INFO] [fg-joomla-to-wordpress] === START import 2017-05-31 15:21:03 ===
+[31-May-2017 15:21:03 UTC] [INFO] [fg-joomla-to-wordpress] Connected with success to the Joomla database
+[31-May-2017 15:21:03 UTC] [INFO] [fg-joomla-to-wordpress] Joomla data found:
+2 categories
+1 article
+
+[31-May-2017 15:21:03 UTC] [INFO] [fg-joomla-to-wordpress] 2 categories imported
+[31-May-2017 15:21:05 UTC] [INFO] [fg-joomla-to-wordpress] 1 post imported
+[31-May-2017 15:21:05 UTC] [INFO] [fg-joomla-to-wordpress] 0 medias imported
+[31-May-2017 15:21:05 UTC] [INFO] [fg-joomla-to-wordpress] Don't forget to modify internal links.
+[31-May-2017 15:21:05 UTC] [INFO] [fg-joomla-to-wordpress] IMPORT COMPLETE
+[31-May-2017 15:21:05 UTC] [INFO] [fg-joomla-to-wordpress] === END import 2017-05-31 15:21:05 ===
+
+[31-May-2017 15:21:17 UTC] [INFO] [fg-joomla-to-wordpress] === START modify_links 2017-05-31 15:21:17 ===
+[31-May-2017 15:21:17 UTC] [INFO] [fg-joomla-to-wordpress] 0 internal links modified
+[31-May-2017 15:21:17 UTC] [INFO] [fg-joomla-to-wordpress] === END modify_links 2017-05-31 15:21:17 ===
+

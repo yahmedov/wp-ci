@@ -1,0 +1,31 @@
+=== START test_database 2017-05-31 15:20:23 ===
+Connected with success to the Joomla database
+Joomla data found:
+2 categories
+1 article
+
+=== END test_database 2017-05-31 15:20:23 ===
+
+=== START save 2017-05-31 15:20:57 ===
+Settings saved
+=== END save 2017-05-31 15:20:57 ===
+
+=== START import 2017-05-31 15:21:03 ===
+Connected with success to the Joomla database
+Joomla data found:
+2 categories
+1 article
+
+Importing categories...
+2 categories imported
+Importing posts...
+1 post imported
+0 medias imported
+Don't forget to modify internal links.
+IMPORT COMPLETE
+=== END import 2017-05-31 15:21:05 ===
+
+=== START modify_links 2017-05-31 15:21:17 ===
+0 internal links modified
+=== END modify_links 2017-05-31 15:21:17 ===
+
