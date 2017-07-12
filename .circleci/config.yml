@@ -17,9 +17,8 @@ jobs:
     working_directory: ~/repo
 
     steps:
-      - checkout
-	  
-	  - run: ll ~/.git
+      - checkout  
+      - run: ll ~/.git
 #
 #      # Download and cache dependencies
 #      - restore_cache:
