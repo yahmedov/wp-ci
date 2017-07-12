@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - checkout  
-      - run: ll ~/.git
+      - run: pwd
 #
 #      # Download and cache dependencies
 #      - restore_cache:
