@@ -55,7 +55,7 @@ dependencies:
 test:
   override:
     # This is just for us to see that the WP Pusher plugin was actually installed and is active
-    - sudo ./wp-cli.phar plugin list --path=wordpress
+    - sudo ./wp-cli.phar plugin list --allow-root --path=wordpress
     
     # Finally, run our Behat features
     #- vendor/bin/behat
