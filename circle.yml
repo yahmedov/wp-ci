@@ -32,7 +32,7 @@ dependencies:
     - cat /home/ubuntu/wp-ci/wordpress/wp-config.php
 
     # Install WordPress
-    - sudo ./wp-cli.phar core install --allow-root --admin_name=admin --admin_password=admin --admin_email=admin@example.com --url=http://wppusher-plugin.dev:8080 --title=WordPress --path=wordpress
+    - ./wp-cli.phar core install --allow-root --admin_name=admin --admin_password=admin --admin_email=admin@example.com --url=http://wppusher-plugin.dev:8080 --title=WordPress --path=wordpress
     
     # Clonse WP Pusher plugin from GitHub
     #- git clone git@github.com:petersuhm/wppusher-plugin.git wordpress/wp-content/plugins/wppusher
