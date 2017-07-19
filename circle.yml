@@ -42,7 +42,7 @@ dependencies:
     # And use WP-CLI to activate it
     #- ./wp-cli.phar plugin activate wppusher --path=wordpress
 
-  post:
+#  post:
     # Copy Apache conf into `site-available`
     #- cp ~/wppusher-plugin/apache-ci.conf /etc/apache2/sites-available
     
@@ -50,7 +50,7 @@ dependencies:
     #- a2ensite apache-ci.conf
     
     # Restart the Apache server
-    - sudo service apache2 restart
+    #- sudo service apache2 restart
 
 test:
   override:
